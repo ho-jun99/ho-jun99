@@ -23,33 +23,33 @@
 
 <h2>🎓 Experience & Social Activity</h2>
 
-|소속 및 활동명|활동 기간|내용|
-|---|---|---|
-|국민대학교| 2018.03 ~  | 국민대학교 소프트웨어학부 재학 |
-|<a href="https://wink.kookmin.ac.kr/">KMU WINK</a>| 2018.06 ~ |[활동] 국민대학교 웹&앱 학술 동아리 |
-|<a href="https://www.gatolab.com/">가토랩</a>| 2021.07 ~ 2021.08| [인턴] 실내 대기질 측정 API & 대시보드 개발 |
-|<a href="https://www.likelion.net/">멋쟁이 사자처럼</a>| 2022.01 ~ 2022.03|[교육매니저] 직장인 온앤오프 Junior 교육매니저 |
-|<a href="https://devforyou.tistory.com/189?category=584188">한국 장학재단 대학생 멘토링</a>| 2022.02 |[활동] 고등학생 대상 코딩 교육봉사 활동 |
-|<a href="http://www.inspien.co.kr/">인스피언</a>| 2022.12 ~ 2023.02|[인턴] 사내 인증서 만료 체크 & 메일알림 자동화 솔루션 개발 |
-|우리학교 전공 Top이 알려주는 학습 Tip&Talk 또래강사| 2023.02 |[활동] 신입생&학사경고자 대상 소프트웨어학부 로드맵 강의|
-|<a href="https://www.ehyundai.com/">현대백화점그룹</a>| 2023.06 ~ 2023.08|[인턴] 수선 중개 플랫폼 얼핏 개발 및 운영 |
+|활동 기간|소속 및 활동명|내용|회고|
+|:---:|---|---|:---:|
+| 2018.03 ~ |국민대학교  | 국민대학교 소프트웨어학부 재학 | \. |
+| 2018.06 ~ |<a href="https://wink.kookmin.ac.kr/">KMU WINK</a>|[활동] 국민대학교 웹&앱 학술 동아리 | \. |
+| 2021.07 ~ 2021.08 |<a href="https://www.gatolab.com/">가토랩</a>| [인턴] 실내 대기질 측정 API & 대시보드 개발 | \. |
+| 2022.01 ~ 2022.03 |<a href="https://www.likelion.net/">멋쟁이 사자처럼</a>|[교육매니저] 직장인 온앤오프 Junior 교육매니저 | <a href="https://devforyou.tistory.com/190">📖</a> |
+| 2022.02 |<a href="https://portal.kosaf.go.kr/CO/jspAction.do">한국 장학재단 대학생 멘토링</a> |[활동] 고등학생 대상 코딩 교육봉사 활동 | <a href="https://devforyou.tistory.com/189">📖</a> |
+| 2022.12 ~ 2023.02|[인턴] 사내 인증서 만료 체크 & 메일알림 자동화 솔루션 개발 |<a href="http://www.inspien.co.kr/">인스피언</a> | <a href="https://devforyou.tistory.com/229">📖</a> |
+| 2023.02 |우리학교 전공 Top이 알려주는 학습 Tip&Talk 또래강사 |[활동] 신입생&학사경고자 대상 소프트웨어학부 로드맵 강의| \. |
+| 2023.06 ~ 2023.08 |<a href="https://www.ehyundai.com/">현대백화점그룹</a>|[인턴] 수선 중개 플랫폼 얼핏 개발 및 운영 | \. |
 
 
 <h2>💻 Projects</h3>
 
-| 기간 | 내용 |
-| --- | --- |
-| 2021.04 ~ 2021.06|[Game/C++] 👨‍💻C++을 이용한<a href="https://github.com/ho-jun99/SnakeGame">Snake Game</a> |
+| 기간 | 내용 | 참고 | 
+| :---: | --- | :---: |
+| 2021.04 ~ 2021.06|[Game/C++] 👨‍💻C++을 이용한<a href="https://github.com/ho-jun99/SnakeGame">Snake Game</a> | \. |
 | 2021.06 ~ 2021.11|[FE/JS] 👨‍💻코로나 블루 해결을 위한 비대면 술게임 플랫폼 <a href="https://github.com/ho-jun99/nogari">노가리</a>|
-| 2021.10 ~ 2021.11|[Client/Kotlin] 👨‍💻에브리타임 + 수업별 커뮤니티에 기능을 추가한 <a href="https://github.com/ho-jun99/WhatsWrong"> Whats-Wrong</a>|
-| 2022.02 |[BE/Python] 👨‍💻Django DRF 튜툐리얼  <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EA%B0%9C%EB%B0%9C/Django?page=2">번역</a>|
-| 2022.03 ~ |[CS] 👨‍💻<a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Operating%20System">OSTEP</a>, <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EB%8F%85%EC%84%9C/Design%20Pattern">GOF디자인패턴&클린소프트웨어</a>, <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EB%8F%85%EC%84%9C/Object%20Oriented%20Software%20Engineering">Object Oriented Software Engineering</a> 정리 및 번역|
-| 2022.03 ~ 2022.12|[Client/Kotlin] 👨‍💻Android 다수   <a href="https://devforyou.tistory.com/category/%E2%80%A2App/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20with%20Kotlin?page=2">토이프로젝트</a> |
-| 2022.03 ~ 2021.06|[Client/Kotlin] 👨‍💻이미지인식 기반 추억을 담는 다이어리 <a href="https://devforyou.tistory.com/191?category=584188">캡슐</a>|
-| 2022.06|[Clinet/Kotlin] 👨‍💻주거정보 불균형해결을 위한 <a href="https://devforyou.tistory.com/192?category=584188">집톡</a> - Android Native|
-| 2022.08 ~ 2022.09|[Client/Kotlin] 👨‍💻Android 코드랩 공식문서 <a href="https://devforyou.tistory.com/category/%E2%80%A2App/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20with%20Kotlin?page=1">번역</a> |
-| 2022.09 ~ 2022.12|[AI&VISON/Pytorch&TensorFlow] 👨‍💻<a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Computer%20Vision">컴퓨터비전</a> 과 <a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Artificial%20Intelligence">인공지능</a>을 활용한 신호등 및 표지판 검출, 차선 검출, 모방학습 기반 자율주행 모델 설계 및 개선, 평가|
-| 2023.03 ~ 2023.06|[BE&DevOps/JAVA] 👨‍💻나만의 작은 복지사, AI기반 노인 건강 관제 서비스 <a href="https://kookmin-sw.github.io/capstone-2023-11/">복실이</a> - Backend & DevOps |
+| 2021.10 ~ 2021.11|[Client/Kotlin] 👨‍💻에브리타임 + 수업별 커뮤니티에 기능을 추가한 <a href="https://github.com/ho-jun99/WhatsWrong"> Whats-Wrong</a>| \. |
+| 2022.02 |[BE/Python] 👨‍💻Django DRF 튜툐리얼  <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EA%B0%9C%EB%B0%9C/Django?page=2">번역</a>| \. |
+| 2022.03 ~ |[CS] 👨‍💻<a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Operating%20System">OSTEP</a>, <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EB%8F%85%EC%84%9C/Design%20Pattern">GOF디자인패턴&클린소프트웨어</a>, <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EB%8F%85%EC%84%9C/Object%20Oriented%20Software%20Engineering">Object Oriented Software Engineering</a> 정리 및 번역| \. |
+| 2022.03 ~ 2022.12|[Client/Kotlin] 👨‍💻Android 다수   <a href="https://devforyou.tistory.com/category/%E2%80%A2App/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20with%20Kotlin?page=2">토이프로젝트</a> | \. |
+| 2022.03 ~ 2021.06|[Client/Kotlin] 👨‍💻이미지인식 기반 추억을 담는 다이어리 <a href="https://devforyou.tistory.com/191?category=584188">캡슐</a>| \. |
+| 2022.06|[Clinet/Kotlin] 👨‍💻주거정보 불균형해결을 위한 <a href="https://devforyou.tistory.com/192?category=584188">집톡</a> - Android Native| \. |
+| 2022.08 ~ 2022.09|[Client/Kotlin] 👨‍💻Android 코드랩 공식문서 <a href="https://devforyou.tistory.com/category/%E2%80%A2App/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20with%20Kotlin?page=1">번역</a> | \. |
+| 2022.09 ~ 2022.12|[AI&VISON/Pytorch&TensorFlow] 👨‍💻<a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Computer%20Vision">컴퓨터비전</a> 과 <a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Artificial%20Intelligence">인공지능</a>을 활용한 신호등 및 표지판 검출, 차선 검출, 모방학습 기반 자율주행 모델 설계 및 개선, 평가| \. |
+| 2023.03 ~ 2023.06|[BE&DevOps/JAVA] 👨‍💻나만의 작은 복지사, AI기반 노인 건강 관제 서비스 <a href="https://kookmin-sw.github.io/capstone-2023-11/">복실이</a> - Backend & DevOps | <a href="https://devforyou.tistory.com/325">📖</a> |
 
 
 
