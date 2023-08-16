@@ -5,10 +5,22 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hjk6322)](https://solved.ac/hjk6322/)
 <h2>💡 About Me!  </h2>
 
-<h> 🔥 개발분야에 종속되지 않는 주니어 개발자입니다. </b>.  <br></br></h>
+<h> 🔥 개발분야에 종속되지 않는 주니어 개발자입니다 </b>.  <br></br></h>
 <h> 🔥 <a href="https://devforyou.tistory.com/">여기 </a>를 누르면 열심히 기록하고 있는 개발블로그로 이동합니다</b>.  <br></br></h>
 <h> 🔥 <a href="https://career.programmers.co.kr/pr/hjk6322_1360">여기 </a>를 커리어 프로필로 이동합니다</b>.  <br></br></h>
- 
+
+<h2>📚 Grade Point Average  </h2>
+<li>소프트웨어융합 전공 / 학사 </li>
+<li> 전체 : 4.04 / 4.5 </li>
+<li> 전공 : 4.11 / 4.5 </li>
+<li>2021학년도 1학기 19학점 수강 4.5 / 4.5</li>
+<li>2022학년도 1학기 21학점 수강 4.5 / 4.5</li>
+<li>2022학년도 2학기 15학점 수강 4.5 / 4.5</li>
+<li>2023학년도 1학기 12학점 수강 4.44 / 4.5</li>
+
+
+
+
 <h2>🎓 Experience & Social Activity</h2>
 
 |소속 및 활동명|활동 기간|내용|
@@ -20,7 +32,7 @@
 |<a href="https://devforyou.tistory.com/189?category=584188">한국 장학재단 대학생 멘토링</a>| 2022.02 |[활동] 고등학생 대상 코딩 교육봉사 활동 |
 |<a href="http://www.inspien.co.kr/">인스피언</a>| 2022.12 ~ 2023.02|[인턴] 사내 인증서 만료 체크 & 메일알림 자동화 솔루션 개발 |
 |우리학교 전공 Top이 알려주는 학습 Tip&Talk 또래강사| 2023.02 |[활동] 신입생&학사경고자 대상 소프트웨어학부 로드맵 강의|
-|<a href="https://www.ehyundai.com/">현대백화점</a>| 2023.06 ~ 2023.08|[인턴] 수선 중개 플랫폼 얼핏 개발 및 운영 |
+|<a href="https://www.ehyundai.com/">현대백화점그룹</a>| 2023.06 ~ 2023.08|[인턴] 수선 중개 플랫폼 얼핏 개발 및 운영 |
 
 
 <h2>💻 Projects</h3>
