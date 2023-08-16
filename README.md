@@ -7,7 +7,7 @@
 
 <h> 🔥 개발분야에 종속되지 않는 주니어 개발자입니다 </b>.  <br></br></h>
 <h> 🔥 <a href="https://devforyou.tistory.com/">여기 </a>를 누르면 열심히 기록하고 있는 개발블로그로 이동합니다</b>.  <br></br></h>
-<h> 🔥 <a href="https://career.programmers.co.kr/pr/hjk6322_1360">여기 </a>를 커리어 프로필로 이동합니다</b>.  <br></br></h>
+<h> 🔥 <a href="https://career.programmers.co.kr/pr/hjk6322_1360">여기 </a>를 누르면 커리어 프로필로 이동합니다</b>.  <br></br></h>
 
 <h2>📚 Grade Point Average  </h2>
 <li>소프트웨어융합 전공 / 학사 </li>
