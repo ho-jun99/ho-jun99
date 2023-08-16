@@ -40,7 +40,7 @@
 | 기간 | 내용 | 참고 | 
 | :---: | --- | :---: |
 | 2021.04 ~ 2021.06|[Game/C++] 👨‍💻C++을 이용한<a href="https://github.com/ho-jun99/SnakeGame">Snake Game</a> | \. |
-| 2021.06 ~ 2021.11|[FE/JS] 👨‍💻코로나 블루 해결을 위한 비대면 술게임 플랫폼 <a href="https://github.com/ho-jun99/nogari">노가리</a>|
+| 2021.06 ~ 2021.11|[FE/JS] 👨‍💻코로나 블루 해결을 위한 비대면 술게임 플랫폼 <a href="https://github.com/ho-jun99/nogari">노가리</a>| \. |
 | 2021.10 ~ 2021.11|[Client/Kotlin] 👨‍💻에브리타임 + 수업별 커뮤니티에 기능을 추가한 <a href="https://github.com/ho-jun99/WhatsWrong"> Whats-Wrong</a>| \. |
 | 2022.02 |[BE/Python] 👨‍💻Django DRF 튜툐리얼  <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EA%B0%9C%EB%B0%9C/Django?page=2">번역</a>| \. |
 | 2022.03 ~ |[CS] 👨‍💻<a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Operating%20System">OSTEP</a>, <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EB%8F%85%EC%84%9C/Design%20Pattern">GOF디자인패턴&클린소프트웨어</a>, <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EB%8F%85%EC%84%9C/Object%20Oriented%20Software%20Engineering">Object Oriented Software Engineering</a> 정리 및 번역| \. |
