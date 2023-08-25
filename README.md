@@ -45,7 +45,7 @@
 | 2022.02 |[BE/Python] 👨‍💻Django DRF 튜툐리얼  <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EA%B0%9C%EB%B0%9C/Django?page=2">번역</a>| \. |
 | 2022.03 ~ |[CS] 👨‍💻<a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Operating%20System">OSTEP</a>, <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EB%8F%85%EC%84%9C/Design%20Pattern">GOF디자인패턴&클린소프트웨어</a>, <a href="https://devforyou.tistory.com/category/%E2%80%A2%20%EB%8F%85%EC%84%9C/Object%20Oriented%20Software%20Engineering">Object Oriented Software Engineering</a> 정리 및 번역| \. |
 | 2022.03 ~ 2022.12|[Client/Kotlin] 👨‍💻Android 다수   <a href="https://devforyou.tistory.com/category/%E2%80%A2App/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20with%20Kotlin?page=2">토이프로젝트</a> | \. |
-| 2022.03 ~ 2021.06|[Client/Kotlin] 👨‍💻이미지인식 기반 추억을 담는 다이어리 <a href="https://devforyou.tistory.com/191?category=584188">캡슐</a>| \. |
+| 2022.03 ~ 2022.06|[Client/Kotlin] 👨‍💻이미지인식 기반 추억을 담는 다이어리 <a href="https://devforyou.tistory.com/191?category=584188">캡슐</a>| \. |
 | 2022.06|[Clinet/Kotlin] 👨‍💻주거정보 불균형해결을 위한 <a href="https://devforyou.tistory.com/192?category=584188">집톡</a> - Android Native| \. |
 | 2022.08 ~ 2022.09|[Client/Kotlin] 👨‍💻Android 코드랩 공식문서 <a href="https://devforyou.tistory.com/category/%E2%80%A2App/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20with%20Kotlin?page=1">번역</a> | \. |
 | 2022.09 ~ 2022.12|[AI&VISON/Pytorch&TensorFlow] 👨‍💻<a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Computer%20Vision">컴퓨터비전</a> 과 <a href="https://devforyou.tistory.com/category/%E2%80%A2Compter%20Science/Artificial%20Intelligence">인공지능</a>을 활용한 신호등 및 표지판 검출, 차선 검출, 모방학습 기반 자율주행 모델 설계 및 개선, 평가| \. |
