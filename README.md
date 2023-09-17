@@ -25,8 +25,8 @@
 
 |활동 기간|소속 및 활동명|내용|회고|
 |:---:|---|---|:---:|
-| 2018.03 ~ |국민대학교  | 국민대학교 소프트웨어학부 재학 | \. |
-| 2018.06 ~ |<a href="https://wink.kookmin.ac.kr/">KMU WINK</a>|[활동] 국민대학교 웹&앱 학술 동아리 | \. |
+| 2018.03 ~ |OO대학교  | OO대학교 소프트웨어학부 재학 | \. |
+| 2018.06 ~ |<a href="https://wink.kookmin.ac.kr/">KMU WINK</a>|[활동] OO대학교 웹&앱 학술 동아리 | \. |
 | 2021.06 ~ 2021.08 |<a href="https://www.gatolab.com/">가토랩</a>| [인턴] 실내 대기질 측정 API & 대시보드 개발 | \. |
 | 2022.01 ~ 2022.03 |<a href="https://www.likelion.net/">멋쟁이 사자처럼</a>|[교육매니저] 직장인 온앤오프 Junior 교육매니저 | <a href="https://devforyou.tistory.com/190">📖</a> |
 | 2022.02 |<a href="https://portal.kosaf.go.kr/CO/jspAction.do">한국 장학재단 대학생 멘토링</a> |[활동] 고등학생 대상 코딩 교육봉사 활동 | <a href="https://devforyou.tistory.com/189">📖</a> |
