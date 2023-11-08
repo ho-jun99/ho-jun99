@@ -18,8 +18,17 @@
 <li>2022학년도 2학기 15학점 수강 4.5 / 4.5</li>
 <li>2023학년도 1학기 12학점 수강 4.44 / 4.5</li>
 
+<h2>🏖️ Me in Web  </h2>
+<d> 🔥 이미지를 클릭하면 관련 페이지로 이동합니다  </d><br/><br/>
+
+<d> 👇 AI건강 관리 플랫폼 '복실이' - EBS 인터뷰  </d><br/>
+[![Video Label](https://github.com/ho-jun99/ho-jun99/assets/38792466/a3cec336-40a9-4fbf-a54a-fc3f00bcb4ba)](https://youtu.be/xrZYgKtZ3u4?si=hBTh-tWTZ_JzkqI7)
 
 
+<d> 👇 O2O 의류 수선 플랫폼 ALLFIT - 관련기사 </d><br/>
+[![Image Label](https://github.com/ho-jun99/ho-jun99/assets/38792466/eaf1d00f-d5a4-4cdc-aeda-3189b0a533ea)](https://zdnet.co.kr/view/?no=20230924091639)
+
+<br/><br/>
 
 <h2>🎓 Experience & Social Activity</h2>
 
@@ -63,4 +72,7 @@
 
 <d>🥇 2023 캡스톤디자인 아이디어 경진대회 우수상</d><br/>
 
+<d>🥇 2023 SW인재페스티벌 소프트웨어중심대학협의회장상 </d><br/>
+
 <d></d> <br/>
+
