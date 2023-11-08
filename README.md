@@ -27,7 +27,7 @@
 <d> 👇 O2O 의류 수선 플랫폼 ALLFIT - <a href="https://zdnet.co.kr/view/?no=20230924091639"> 관련기사</a> </d><br/>
 ![기사](https://github.com/ho-jun99/ho-jun99/assets/38792466/eaf1d00f-d5a4-4cdc-aeda-3189b0a533ea)
 
-<br/><br/>
+<br/>
 
 <h2>🎓 Experience & Social Activity</h2>
 
