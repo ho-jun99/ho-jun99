@@ -19,14 +19,13 @@
 <li>2023학년도 1학기 12학점 수강 4.44 / 4.5</li>
 
 <h2>🏖️ Me in Web  </h2>
-<d> 🔥 이미지를 클릭하면 관련 페이지로 이동합니다  </d><br/><br/>
 
-<d> 👇 AI건강 관리 플랫폼 '복실이' - EBS 인터뷰  </d><br/>
-[![Video Label](https://github.com/ho-jun99/ho-jun99/assets/38792466/a3cec336-40a9-4fbf-a54a-fc3f00bcb4ba)](https://youtu.be/xrZYgKtZ3u4?si=hBTh-tWTZ_JzkqI7)
+<d> 👇 AI건강 관리 플랫폼 '복실이' - <a href="https://youtu.be/xrZYgKtZ3u4?si=hBTh-tWTZ_JzkqI7"> EBS 인터뷰</a>  </d><br/>
+![유튜브](https://github.com/ho-jun99/ho-jun99/assets/38792466/a3cec336-40a9-4fbf-a54a-fc3f00bcb4ba)
 
 
-<d> 👇 O2O 의류 수선 플랫폼 ALLFIT - 관련기사 </d><br/>
-[![Image Label](https://github.com/ho-jun99/ho-jun99/assets/38792466/eaf1d00f-d5a4-4cdc-aeda-3189b0a533ea)](https://zdnet.co.kr/view/?no=20230924091639)
+<d> 👇 O2O 의류 수선 플랫폼 ALLFIT - <a href="https://zdnet.co.kr/view/?no=20230924091639"> 관련기사</a> </d><br/>
+![기사](https://github.com/ho-jun99/ho-jun99/assets/38792466/eaf1d00f-d5a4-4cdc-aeda-3189b0a533ea)
 
 <br/><br/>
 
